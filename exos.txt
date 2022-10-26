@@ -2,7 +2,7 @@
 
 1. Ecrire un programme "PassGen" permettant de générer un mot de passe aléatoire.
 Par défaut le mot de passe sera de longueur 10
-Une option de ligne de commande -l permettra de à l'utiliser de préciser la longueur souhaitée
+Une option de ligne de commande -l permettra de à l'utilisateur de préciser la longueur souhaitée
 Cette longueur ne pourra pas être inférieure à 6
 Le mot de passe devra contenir au moins:
 - une lettre minuscule
