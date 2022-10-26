@@ -1,0 +1,27 @@
+*** Java Exos ***
+
+1. Ecrire un programme "PassGen" permettant de générer un mot de passe aléatoire.
+Par défaut le mot de passe sera de longueur 10
+Une option de ligne de commande -l permettra de à l'utiliser de préciser la longueur souhaitée
+Cette longueur ne pourra pas être inférieure à 6
+Le mot de passe devra contenir au moins:
+- une lettre minuscule
+- une lettre majuscule
+- un chiffre
+
+Exemple d'utilisation et de sortie:
+java PassGen -l 12
+1sp5Lc2ljdDw
+
+
+2. Ecrire un programme "PassFile" permettant de générer un ficher contenant des mots de passe
+Le programme demandera à l'utilisateur le nombre de mots de passe à produire
+Un fichier passList.txt sera généré. Il contiendra autant de mots de passe 
+qu'indiqué par l'utilisateur
+
+
+3. Multiples de 3 ou de 5
+Si on liste tous les entiers naturels inférieurs à 10 qui sont des multiples de 3 ou de 5, on
+obtient 3, 5, 6 et 9.
+La somme de tous ces multiples est 23.
+Trouver la somme de tous les multiples de 3 ou de 5 inférieurs à 1000.
