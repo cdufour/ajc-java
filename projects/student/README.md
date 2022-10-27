@@ -19,11 +19,11 @@ Dans cette classe:
 
 ## Exemple d'exécution
 ```
-La liste des filières de notre école :
+La liste des filières de notre école:
 
-Filière : Informatique
-Filière : Techno de l'info et de communication
-Filière : Génie civil
+Filière: Informatique
+Filière: Biologie
+Filière: Maths
 
 Liste des étudiants par filière :
 

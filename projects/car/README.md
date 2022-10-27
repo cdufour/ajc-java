@@ -10,7 +10,7 @@
 
 ## A faire
 - Définir une classe Car avec les attributs suivants : Id, brand, speed, power.
-- Définir un constructeur permettant d'initialiser les attributs d'un objet voiture par des valeurs passées en paramètre, Sachant que Id doit être auto-incrément. 
+- Définir un constructeur permettant d'initialiser les attributs d'un objet voiture par des valeurs passées en paramètre, sachant que Id doit être auto-incrément. 
 - Définir les accesseurs/mutateurs aux différents attributs de la classe.
 - Définir la méthode toString() permettant d'afficher les informations d'une voiture.
 - Ecrire un programme testant la classe Car.
