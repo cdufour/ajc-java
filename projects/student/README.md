@@ -6,6 +6,10 @@
 - Traduction d'une association entre les classes.
 
 ## A faire
+
+Soit le diagramme de classe suivant:  
+![Diagramme](diagram.png)
+
 1. Développer la classe Student et la classe Sector dans le package "project.school".    
 Chaque classe doit comporter :
 - Un constructeur d'initialisation
