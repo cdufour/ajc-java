@@ -12,12 +12,13 @@ Le mot de passe devra contenir au moins:
 Exemple d'utilisation et de sortie:
 java PassGen -l 12
 1sp5Lc2ljdDw
-
+________________________________________________
 
 2. Ecrire un programme "PassFile" permettant de générer un ficher contenant des mots de passe
 Le programme demandera à l'utilisateur le nombre de mots de passe à produire
 Un fichier passList.txt sera généré. Il contiendra autant de mots de passe 
 qu'indiqué par l'utilisateur
+________________________________________________
 
 
 3. Multiples de 3 ou de 5
@@ -25,3 +26,23 @@ Si on liste tous les entiers naturels inférieurs à 10 qui sont des multiples d
 obtient 3, 5, 6 et 9.
 La somme de tous ces multiples est 23.
 Trouver la somme de tous les multiples de 3 ou de 5 inférieurs à 1000.
+________________________________________________
+
+
+4. Plus grand facteur premier
+Les facteurs premiers de 13195 sont 5, 7, 13 and 29.
+Quel est le plus grand facteur premier de 600851475143 ?
+
+Définition d'un nombre premier
+Nombre naturel qui est supérieur à 1 et qui a exactement deux diviseurs distincts, soit 1 et lui-même.
+________________________________________________
+
+
+5. Projet Car
+Voir consignes dans le README du dossier project/car
+________________________________________________
+
+
+6. Projet Student
+Voir consignes dans le README du dossier project/student
+________________________________________________

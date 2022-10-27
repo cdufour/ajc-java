@@ -28,3 +28,10 @@ Le livre Pauline de Dumas a 280 pages
 Le livre Germinal de Zola a 520 pages
 Le nombre de livres est 2
 ```
+
+### commandes
+Pour la compilation et exécution incluant le packaging  
+```bash
+javac -d . *.class
+java project.TestBook
+```
