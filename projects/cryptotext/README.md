@@ -7,10 +7,10 @@ Sur la base du diagramme de classes suivant:
 - Ecrire l'interface ICrypto dans un package project.crypto
 - Ecrire les classes CustomText et Quote dans un package project.crypto
 - Ecrire une classe de Test (package.test) dans laquelle vous devrez
-    - Créer des citations
-    - Lister des citations en affichant body, source et catégorie
-    - Lister les citations en affichant uniquement une version raccourcie du body
-    - Lister les citations en affichant que le body, dans sa version cryptée
+    - Créer des quotes (citations)
+    - Lister les quotes en affichant body, source et category
+    - Lister les quotes en affichant uniquement une version raccourcie du body
+    - Lister les quotes en affichant uniquement une version crypée du body
 
 ### Note
 L'algorithme de cryptage est au choix: substitution, inversion des lettres, ROT13 (https://rot13.com/), etc.  
