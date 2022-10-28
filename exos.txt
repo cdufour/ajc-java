@@ -46,3 +46,6 @@ ________________________________________________
 6. Projet Student
 Voir consignes dans le README du dossier project/student
 ________________________________________________
+
+7. Project final Cryptotext
+Voir consignes dans le README du dossier project/cryptotext
