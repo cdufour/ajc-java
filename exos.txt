@@ -31,7 +31,7 @@ ________________________________________________
 
 4. Plus grand facteur premier
 Les facteurs premiers de 13195 sont 5, 7, 13 and 29.
-Quel est le plus grand facteur premier de 600851475143 ?
+Quel est le plus grand facteur premier de 8462696833 ?
 
 Définition d'un nombre premier
 Nombre naturel qui est supérieur à 1 et qui a exactement deux diviseurs distincts, soit 1 et lui-même.

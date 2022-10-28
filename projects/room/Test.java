@@ -12,7 +12,7 @@ public class Test
         rs.create(new Room("A", "Salle 1"));
         rs.create(new Room("B", "Salle 2"));
         rs.create(new Room("C", "Salle 3"));
-        rs.create(new Room("D", "Salle 4"));
+        rs.create(new Room(42, "D", "Salle 4"));
 
         System.out.println("Liste des salles: ");
         for(Room r : rs.findAll())

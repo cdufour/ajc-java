@@ -47,7 +47,7 @@ public class Room {
 
     @Override
     public String toString() {
-        return this.code + " " + this.label;
+        return  this.code + " " + this.label + " (id: " + this.id + ")";
     }
 
 

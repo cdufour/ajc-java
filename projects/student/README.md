@@ -13,8 +13,8 @@ Soit le diagramme de classe suivant:
 1. Développer la classe Student et la classe Sector dans le package "project.school".    
 Chaque classe doit comporter :
 - Un constructeur d'initialisation
-- Les accesseurs en cas de besoin;
-- La méthode toString.
+- Les accesseurs en cas de besoin
+- La méthode toString
 
 2. Développer une classe de test dans le package "project.test".  
 Dans cette classe:
