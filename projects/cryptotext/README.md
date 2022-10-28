@@ -49,3 +49,7 @@ Rvj o'b kbnbjt éué sjejdvmf of tbju qpjou sjsf.
 --- Citation 3 ---
 Sjfo of eétbsnf dpnnf mf sjsf.
 ```
+
+## Modalités de transmission
+Me rendre un zip contenant uniquement vos sources (fichiers .java) via la plateforme AJC
+avant le 29/10/2022, midi.
